@@ -1,2 +1,2 @@
 # Project_1
-Data analytics Project 1 
+Data Analytics Project 1 
