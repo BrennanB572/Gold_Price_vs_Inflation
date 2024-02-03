@@ -24,10 +24,8 @@ o	What currency experience the lowest inflation?
 o	What currency experience the highest inflation?
 
 -	Is it profitable to move money
-o	What currency has the most  Stable for the longest time??
-o	What currency has the least  Stable for the longest time??
-
--	
+o	What currency has the most Stable for the longest time??
+o	What currency has the least Stable for the longest time??
 
 Datasets to Be Used:
 Gold Prices:
@@ -52,4 +50,31 @@ CHINA
 2 - Complete Export for Gold prices:
 Gold Price Prediction | LSTM | 96% Accuracy
 
-3 - 
+3 - Format CSV Files
+Format CSV Files to make it easier to pull using pandas
+
+4 - File Organization
+	Come together to ensure all resources files such as CSVs are being stored in one place
+
+5 – Join Years Available 
+	Trim excess years from both files so that both files have the shared time.
+
+6 – Gold File Updated to annual averages
+	Create code to swap data from monthly to annual amounts.
+
+
+7 – Create Currency Specific Gold Valuation 
+USA – 2steps under each
+EU – 2steps under each
+RUSSIA – 2steps under each
+CHINA – 2steps under each
+
+
+8 – Scatter Plot: (Create a comparison of the gold and currency inflation rate.)
+USA – 	
+    Price on Y axis
+	Time on X Axis
+    ??? on z axis
+	
+9 – Chart Presentation (In Jupyter)
+	Proper Labels and Formatting
