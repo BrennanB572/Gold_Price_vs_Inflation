@@ -21,4 +21,4 @@ for column in columns_to_average:
 print(average_annual_data)
 
 # Creates a CSV file
-average_annual_data.to_csv('average_annual_gold_prices.csv', header=True)
+average_annual_data.to_csv('Resources/average_annual_gold_prices.csv', header=True)
