@@ -16,4 +16,4 @@ for column in columns_to_average:
 print(average_annual_data)
 
 # Creates a CSV file
-average_annual_data.to_csv('RUSSIAN_averages.csv', header=True)
+average_annual_data.to_csv('Resources/RUSSIAN_averages.csv', header=True)
