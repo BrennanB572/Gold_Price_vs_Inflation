@@ -19,13 +19,13 @@ o	YEN
 
 
  Research Questions to Answer
--	Where is the money safest(lowest inflation)
-o	What currency experience the lowest inflation?
-o	What currency experience the highest inflation?
+Where is the money lowest inflation?
+What currency experience the highest inflation?
+What currency experience the lowest inflation?
+Is it profitable to move money?
+What currency has the consistent value range for the longest time?
+What currency has the least consistent value range for the longest time?
 
--	Is it profitable to move money
-o	What currency has the most Stable for the longest time??
-o	What currency has the least Stable for the longest time??
 
 Datasets to Be Used:
 Gold Prices:
