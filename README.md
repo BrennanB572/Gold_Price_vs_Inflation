@@ -120,6 +120,10 @@ Inflation Rates:
 
 - Currency Percent Change YoY:
 
+![image](https://github.com/BrennanB572/Gold_Price_vs_Inflation/assets/114636599/084bf9ee-aa96-4a1d-92e7-534cbae15a3b)
+
+-
+
 
 
 
