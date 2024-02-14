@@ -1,3 +1,6 @@
+![image](https://github.com/BrennanB572/Gold_Price_vs_Inflation/assets/114636599/62c67771-86cf-4acf-989d-6999e2971786)
+
+
 # ASU Data Analytics Project 1: Gold Price Prediction VS Inflation 2013 - 2021
 
 ## Sources Used:
