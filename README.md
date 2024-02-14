@@ -1,24 +1,42 @@
-Project Title :
-Gold Price Prediction VS Inflation
+# ASU Data Analytics Project 1: Gold Price Prediction VS Inflation 2013 - 2021
 
+# Sources Used:
+Gold Conversions:
+Inflation Rates:
 
+# Overview
+- The Gold Price vs. Inflation 2013 - 2021 main goal is to identify Gold vs Inflation trends for the United States, Russia, China and Europe from 2013 - 2021. The end goal analysis is to answer 6 key questions:
+  1. Where is the money lowest inflation?
+  2. What currency experience the highest inflation?
+  3. What currency experience the lowest inflation?
+  4. Is it profitable to move money?
+  5. What currency has the consistent value range for the longest time?
+  6. What currency has the least consistent value range for the longest time?
 
-Team Members:
-Juan Herrera Sebastian
-Christian Blomgren
-Brennan Bradley
-Ritika Changulani
+# Hypothesis
+- Below are the 4 main hypothesis for this project:
+   1. Highest Inflation Country: Team Decision - United States
+   2. Lowest Inflation Country: Team Decision - Russia
+   3. Russia / Ruble Hypothesis -
+   4. United States / Dollar Hypothesis -
+   5. Europe / Euro Hypothesis -
+   6. China / Yen Hypothesis - 
 
+## Team Roster / Roles
+#### Juan Herrera Sebastian - [ Code Architect ] 
+- Juan was responsible for handling the A to Z code structure.
+- Country Assignment: Russia / Ruble Analysis
+#### Brennan Bradley - [ Version Control Architect ]
+- Brennan was responsible for handling file organization and github merges.
+- Country Assignment: United States / Dollar Analysis
+#### Christian B. - [ Code Adaptation Specialist ]
+- Christian was responsible for handling code commenting and code direction for accomplishing end analysis.
+- Country Assignment: Europe / Euro Analysis
+#### Ritika Changulani - [ Presentation Design Lead ] 
+- Ritika took ownership of ensuring deadlines were accomplished and handled presentation updates/design.
+- Country Assignment: China / Yen Analysis
 
-Project Description/Outline
--	Compare against different currencies of other nations < Against Inflation
-o	USA
-o	EURO
-o	RUBLE
-o	YEN
-
-
- Research Questions to Answer
+## Research Questions / Hypothesis
 Where is the money lowest inflation?
 What currency experience the highest inflation?
 What currency experience the lowest inflation?
