@@ -44,12 +44,11 @@ Inflation Rates:
 - Country Assignment: China / Yen Analysis
 
 ## Research Questions / Analysis Conclusion
-1. Where is the money lowest inflation?
-2. What currency experience the highest inflation?
-3. What currency experience the lowest inflation?
-4. Is it profitable to move money?
-5. What currency has the consistent value range for the longest time?
-6. What currency has the least consistent value range for the longest time? 
+1. Where is the money lowest inflation? Of all the four currencies we observed only two have recovered post 2020 – The Ruble and the Euro show the highest loss of purchasing power.  The Dollar and YEN are proceeding to recover at a similar rate. 
+2. What currency experience the highest inflation? YEN saw the highest inflation in its currency (2020) but also the strongest recovery the following year (2021). Nearly a 25% adjustment to the currencies purchasing power within 3 years. During this three-year period the YEN would be safest kept in currency and then once the orange and blue line flipped buying as much gold as possible in 2021.
+3. Is it profitable to move money? Depending on the currency you have, the data supports moving currency to gold when the range of percent difference is within single digits for the maximum return.
+4. What currency has the consistent value range for the longest time? Dollar has the lowest range of value for its currency a 35% range from its best at 25% above gold to its worse at nearly 10% below gold’s stability.
+5. What currency has the least consistent value range for the longest time? Ruble has the highest range of value for its currency a 46 percent range from its best at 6% above gold to its worse at nearly 40% below gold’s stability.
 
 ## Analysis Results
 
