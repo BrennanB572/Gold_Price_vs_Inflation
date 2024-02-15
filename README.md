@@ -125,7 +125,7 @@ Inflation Rates:
 - In the Gold Value In Yen Over the Years, the Adjusted Gold Value in Yen (the orange line) increases slowly in steps from $8,864.16 to $10,339.42. The orange line is a stable increase.
 Whereas The Gold Value in Yen (the blue line) has an unstable change. 
 In the Percent Change in Gold Value (Yen) Over Years, the gold value (blue line) is stable. Whereas the Yen value (orange line) has an unstable change.
-![image](https://github.com/BrennanB572/Gold_Price_vs_Inflation/assets/153463563/b43a1be9-ebb2-4fcc-9d0e-2de9f35d6192)
+
 
 
 
