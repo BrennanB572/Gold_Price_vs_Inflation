@@ -106,7 +106,7 @@ Inflation Rates:
 
 ![image](https://github.com/BrennanB572/Gold_Price_vs_Inflation/assets/114636599/2d497989-018e-45c9-958d-e2804cc45580)
 
-- If an individual with Euros had chosen to invest in gold in 2013, they would have avoided a 56% depreciation by the year 2021.
+- If an individual with Euros had chosen to invest in gold in 2013, they would have seen a 56% increase in purchasing power by the year 2021 if they wanted to convert back to Euros.
 
 ### China / Yen Analysis
 
