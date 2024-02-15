@@ -34,7 +34,7 @@ Inflation Rates:
 - Juan was responsible for handling the A to Z code structure.
 - Country Assignment: Russia / Ruble Analysis
 #### Brennan Bradley - [ Version Control Architect ]
-- Brennan was responsible for handling file organization and github merges.
+- Brennan was responsible for handling file organization and github merges/debugging.
 - Country Assignment: United States / Dollar Analysis
 #### Christian B. - [ Code Adaptation Specialist ]
 - Christian was responsible for handling code commenting and code direction for accomplishing end analysis.
