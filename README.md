@@ -27,10 +27,7 @@ Inflation Rates:
 - Below are the 4 main hypothesis for this project:
    1. Highest Inflation Country: Team Decision - United States
    2. Lowest Inflation Country: Team Decision - Russia
-   3. Russia / Ruble Hypothesis -
-   4. United States / Dollar Hypothesis -
-   5. Europe / Euro Hypothesis -
-   6. China / Yen Hypothesis - 
+   3. Currency vs. Gold Hypothesis - As the currency deflates the currencies ability to purchase gold increases. If inflation is in a nonstandard range then currency will be safer kept in gold over time.
 
 ## Team Roster / Roles
 #### Juan Herrera Sebastian - [ Code Architect ] 
