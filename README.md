@@ -24,7 +24,7 @@ Inflation Rates:
   6. What currency has the least consistent value range for the longest time?
 
 # Hypothesis
-- Below are the 4 main hypothesis for this project:
+- Below are the 3 main hypothesis for this project:
    1. Highest Inflation Country: Team Decision - United States
    2. Lowest Inflation Country: Team Decision - Russia
    3. Currency vs. Gold Hypothesis - As the currency deflates the currencies ability to purchase gold increases. If inflation is in a nonstandard range then currency will be safer kept in gold over time.
