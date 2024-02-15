@@ -43,14 +43,6 @@ Inflation Rates:
 - Ritika took ownership of ensuring deadlines were accomplished and handled presentation updates/design.
 - Country Assignment: China / Yen Analysis
 
-## Research Questions / Hypothesis
-1. Where is the money lowest inflation? 
-2. What currency experience the highest inflation?
-3. What currency experience the lowest inflation?
-4. Is it profitable to move money?
-5. What currency has the consistent value range for the longest time?
-6. What currency has the least consistent value range for the longest time?
-
 ## Research Questions / Analysis Conclusion
 1. Where is the money lowest inflation?
 2. What currency experience the highest inflation?
